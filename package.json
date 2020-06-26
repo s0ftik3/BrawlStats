@@ -1,0 +1,17 @@
+{
+  "name": "brawlstarsapi",
+  "version": "1.0.0",
+  "description": "Trying to find out something new via BS API",
+  "main": "brawlstars.js",
+  "repository": "https://github.com/s0ftik3/BrawlStats.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "softik",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "request": "^2.88.2",
+    "superagent": "^5.2.2"
+  }
+}
