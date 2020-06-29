@@ -24,6 +24,7 @@ Change `config.json` file in the main directory.
 ```
 
 `bstoken` get the API key [here](https://developer.brawlstars.com)
+
 `token` get the token [here](https://discord.com/developers)
 
 
