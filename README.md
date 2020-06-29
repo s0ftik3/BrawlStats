@@ -17,13 +17,13 @@ Change `config.json` file in the main directory.
 
 ```
 {
-    "bstoken": "YOUR-API-KEY",
+    "bstoken": "BRAWL-STARS-TOKEN",
     "prefix": "?",
     "token": "BOT-TOKEN"
 }
 ```
 
-`bstoken` get the API key [here](https://developer.brawlstars.com)
+`bstoken` get the token [here](https://developer.brawlstars.com)
 
 `token` get the token [here](https://discord.com/developers)
 
